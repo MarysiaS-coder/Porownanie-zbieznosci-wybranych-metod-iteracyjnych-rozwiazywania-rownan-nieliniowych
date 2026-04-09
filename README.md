@@ -1,4 +1,4 @@
-# porownanie zbieznosci wybranych metod iteracyjnych rozwiazywania rownan nieliniowych
+# Porownanie zbieznosci wybranych metod iteracyjnych rozwiazywania rownan nieliniowych - projekt grupowy
 Celem tego projektu jest porównanie zbieżności metod: bisekcji, Newtona, siecznych iteracyjnych rozwiązywania rów
 nań nieliniowych. Do testów użyte zostały funkcje zróżnicowane ze względu na własności swoich wykresów. 
 Do analizy wyżej wymienionych metod użyte zostały własnoręcznie zaimplementowane w języku Octave funkcje. Analiza zbieżnośći i porównanie metod wykonane zostałay ze względu na dobór punktu startowego. 
